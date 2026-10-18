@@ -1,0 +1,22 @@
+{
+  "name": "Eugene Events",
+  "short_name": "Eugene Events",
+  "description": "What's on in Eugene \u2014 Matthew Knight Arena, Autzen, the Hult Center, the McDonald and the WOW Hall, with the Ducks, the Emeralds and the Beavers at home.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#141a20",
+  "theme_color": "#141a20",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

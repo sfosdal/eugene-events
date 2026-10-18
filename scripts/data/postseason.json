@@ -1,0 +1,177 @@
+{
+ "_": "Each club's postseason for the season in hand \u2014 the rounds, their dates and the final's site \u2014 shown in the Teams view as 'if they qualify' until the real games arrive (the schedules flag those playoff: true, and a round with a real game in its window gives way to it). Hand-kept: update each season from the leagues' announcements. tbd: true marks a round whose dates are the usual calendar, not yet announced. Drafted 2026-10-17 (Eugene) from the leagues' usual calendars; the Emeralds' 2026 season is over.",
+ "ducks": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Big Ten Championship Game",
+    "start": "2026-12-05",
+    "end": "2026-12-05",
+    "tbd": true
+   },
+   {
+    "name": "College Football Playoff, first round",
+    "start": "2026-12-19",
+    "end": "2026-12-20",
+    "tbd": true
+   },
+   {
+    "name": "CFP quarterfinals",
+    "start": "2026-12-31",
+    "end": "2027-01-01",
+    "tbd": true
+   },
+   {
+    "name": "CFP semifinals",
+    "start": "2027-01-08",
+    "end": "2027-01-09",
+    "tbd": true
+   },
+   {
+    "name": "CFP National Championship",
+    "start": "2027-01-18",
+    "end": "2027-01-18",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "ducksbasketball": {
+  "season": "2026-27",
+  "rounds": [
+   {
+    "name": "Big Ten Tournament",
+    "start": "2027-03-10",
+    "end": "2027-03-14",
+    "tbd": true
+   },
+   {
+    "name": "NCAA Tournament, first and second rounds",
+    "start": "2027-03-18",
+    "end": "2027-03-21",
+    "tbd": true
+   },
+   {
+    "name": "NCAA regionals",
+    "start": "2027-03-25",
+    "end": "2027-03-28",
+    "tbd": true
+   },
+   {
+    "name": "Final Four",
+    "start": "2027-04-03",
+    "end": "2027-04-05",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "duckswomens": {
+  "season": "2026-27",
+  "rounds": [
+   {
+    "name": "Big Ten Tournament",
+    "start": "2027-03-03",
+    "end": "2027-03-07",
+    "tbd": true
+   },
+   {
+    "name": "NCAA Tournament, first and second rounds",
+    "start": "2027-03-19",
+    "end": "2027-03-22",
+    "tbd": true
+   },
+   {
+    "name": "NCAA regionals",
+    "start": "2027-03-26",
+    "end": "2027-03-29",
+    "tbd": true
+   },
+   {
+    "name": "Final Four",
+    "start": "2027-04-02",
+    "end": "2027-04-04",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "emeralds": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Northwest League Championship Series",
+    "start": "2026-09-08",
+    "end": "2026-09-13",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "beavers": {
+  "season": "2026",
+  "rounds": [
+   {
+    "name": "Pac-12 Championship Game",
+    "start": "2026-12-05",
+    "end": "2026-12-05",
+    "tbd": true
+   },
+   {
+    "name": "College Football Playoff, first round",
+    "start": "2026-12-19",
+    "end": "2026-12-20",
+    "tbd": true
+   },
+   {
+    "name": "CFP quarterfinals",
+    "start": "2026-12-31",
+    "end": "2027-01-01",
+    "tbd": true
+   },
+   {
+    "name": "CFP semifinals",
+    "start": "2027-01-08",
+    "end": "2027-01-09",
+    "tbd": true
+   },
+   {
+    "name": "CFP National Championship",
+    "start": "2027-01-18",
+    "end": "2027-01-18",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ },
+ "beaversbasketball": {
+  "season": "2026-27",
+  "rounds": [
+   {
+    "name": "Pac-12 Tournament",
+    "start": "2027-03-09",
+    "end": "2027-03-13",
+    "tbd": true
+   },
+   {
+    "name": "NCAA Tournament, first and second rounds",
+    "start": "2027-03-18",
+    "end": "2027-03-21",
+    "tbd": true
+   },
+   {
+    "name": "NCAA regionals",
+    "start": "2027-03-25",
+    "end": "2027-03-28",
+    "tbd": true
+   },
+   {
+    "name": "Final Four",
+    "start": "2027-04-03",
+    "end": "2027-04-05",
+    "tbd": true,
+    "final": true
+   }
+  ]
+ }
+}

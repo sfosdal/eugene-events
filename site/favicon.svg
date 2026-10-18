@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#154733"/>
+  <!-- Spencer Butte over the Willamette: the butte's long ridge in a muted green, two firs in front, the river's bend below in yellow-green -->
+  <path d="M1 22 L7 13 L12 16 L18 7 L24 15 L31 11 L31 22 Z" fill="#4f8a5e"/>
+  <path d="M8 24 L11 15 L14 24 Z M10 21 L11 18 L12 21 Z" fill="#dfe8d8"/>
+  <path d="M22 24 L25.5 13 L29 24 Z" fill="#dfe8d8"/>
+  <rect x="10.4" y="23" width="1.2" height="3" fill="#dfe8d8"/>
+  <rect x="24.9" y="23" width="1.2" height="3" fill="#dfe8d8"/>
+  <path d="M1 26.5 C 8 24.5, 12 29, 19 27 S 27 25.5, 31 27.5" fill="none" stroke="#fee123" stroke-width="1.8" stroke-linecap="round"/>
+</svg>
