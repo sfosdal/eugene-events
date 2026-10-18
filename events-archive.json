@@ -1,0 +1,656 @@
+{
+ "events": [
+  {
+   "venue": "Whirled Pies",
+   "title": "The Mike Dillon Band Featuring Brian Haas and Nikki Glaspie",
+   "date": "2026-01-09",
+   "time": "21:00",
+   "url": "https://whirledpies.com/event/1-9-the-mike-dillon-band-featuring-brian-haas-and-nikki-glaspie/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Dandi Ring Basket workshop",
+   "date": "2026-01-12",
+   "time": "17:00",
+   "url": "https://whirledpies.com/event/1-12-dandi-ring-basket-workshop/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Love In The Dream | Pete's Dragon Rose Band Birthday Benefit for Beyond Toxics",
+   "date": "2026-01-16",
+   "time": "",
+   "url": "https://whirledpies.com/event/1-16-love-in-the-dream-petes-dragon-rose-band-birthday-benefit-for-beyond-toxics/",
+   "type": "community"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "ISCEE Debutante/Emerald Knight/Emerald Champion Pageant",
+   "date": "2026-01-17",
+   "time": "",
+   "url": "https://whirledpies.com/event/1-17-iscee-debutante-emerald-knight-emerald-champion-pageant/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "POW! Pro Wrestling Presents \"And The Winner Is\"!",
+   "date": "2026-01-24",
+   "time": "18:00",
+   "url": "https://whirledpies.com/event/1-24-pow-pro-wrestling-presents-and-the-winner-is/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Gateway Show",
+   "date": "2026-01-30",
+   "time": "19:30",
+   "url": "https://whirledpies.com/event/1-31-gateway-show/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "An Evening of Belly Dance",
+   "date": "2026-01-31",
+   "time": "",
+   "url": "https://whirledpies.com/event/1-31-an-evening-of-belly-dance/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Ribbed Wild Cucumber Basket Workshop",
+   "date": "2026-02-02",
+   "time": "17:00",
+   "url": "https://whirledpies.com/event/2-2-ribbed-wild-cucumber-basket-workshop/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Jammin' With the Pros Jazz Jam",
+   "date": "2026-02-04",
+   "time": "",
+   "url": "https://whirledpies.com/event/2-4-jammin-with-the-pros-jazz-jam/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "History Pub: Naomi Sussman",
+   "date": "2026-02-09",
+   "time": "",
+   "url": "https://whirledpies.com/event/2-9-history-pub-naomi-sussman/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Ribbed Wild Cucumber Basket Workshop",
+   "date": "2026-02-09",
+   "time": "17:00",
+   "url": "https://whirledpies.com/event/2-9-ribbed-wild-cucumber-basket-workshop/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Double Headliner Comedy with Tyler Boeh and Andrew Sleighter!",
+   "date": "2026-02-13",
+   "time": "20:30",
+   "url": "https://whirledpies.com/event/2-13-double-headliner-comedy-with-tyler-boeh-and-andrew-sleighter/",
+   "type": "arts"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "POW Pro Wrestling \"Heartpunch\" 2026!",
+   "date": "2026-02-14",
+   "time": "18:00",
+   "url": "https://whirledpies.com/event/2-14-pow-pro-wrestling-heartpunch-2026/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Jammin'with The Pros Jazz Jam",
+   "date": "2026-02-18",
+   "time": "",
+   "url": "https://whirledpies.com/event/2-18-jamminwith-the-pros-jazz-jam/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Eugene Deadhead Trivia",
+   "date": "2026-02-23",
+   "time": "",
+   "url": "https://whirledpies.com/event/2-23-eugene-deadhead-trivia/",
+   "type": "community"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Whoop Whirled 4",
+   "date": "2026-02-26",
+   "time": "",
+   "url": "https://whirledpies.com/event/2-26-whoop-whirled-4/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Brown Stallion presents: A Tribute to Ween",
+   "date": "2026-02-27",
+   "time": "",
+   "url": "https://whirledpies.com/event/2-27-brown-stallion/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "/2026 – An Evening with the Garcia Birthday Band",
+   "date": "2026-02-28",
+   "time": "20:00",
+   "url": "https://whirledpies.com/event/2-28-2026-an-evening-with-the-garcia-birthday-band/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "GOOSEBERRY | VERB8IM",
+   "date": "2026-03-03",
+   "time": "19:45",
+   "url": "https://whirledpies.com/event/3-3-gooseberry-verb8im/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Jammin' With The Pros Jazz Jam",
+   "date": "2026-03-04",
+   "time": "",
+   "url": "https://whirledpies.com/event/3-4-jammin-with-the-pros-jazz-jam/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Jon Bilenki Winter Concert",
+   "date": "2026-03-05",
+   "time": "",
+   "url": "https://whirledpies.com/event/3-5-jon-bilenki-winter-concert/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Gateway Show-Eugene",
+   "date": "2026-03-06",
+   "time": "19:30",
+   "url": "https://whirledpies.com/event/3-6-gateway-show-eugene/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Parallel 44 Presents Watkins Glen Featuring Cliff Porter and Maxwell Freidman",
+   "date": "2026-03-07",
+   "time": "20:00",
+   "url": "https://whirledpies.com/event/3-7-parallel-44-presents-watkins-glen-featuring-cliff-porter-and-maxwell-freidman/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "History Pub",
+   "date": "2026-03-09",
+   "time": "",
+   "url": "https://whirledpies.com/event/3-9-history-pub/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Love In The Dream",
+   "date": "2026-03-13",
+   "time": "19:30",
+   "url": "https://whirledpies.com/event/3-13-love-in-the-dream/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "K-POP Dance Showcase \"Kodex Boulevard + Random Dance Play!",
+   "date": "2026-03-14",
+   "time": "17:00",
+   "url": "https://whirledpies.com/event/3-14-k-pop-dance-showcase-kodex-boulevard-random-dance-play/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Kinky Bingo",
+   "date": "2026-03-20",
+   "time": "21:00",
+   "url": "https://whirledpies.com/event/3-20-kinky-bingo/",
+   "type": "community"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Whoop Whirled 4",
+   "date": "2026-03-21",
+   "time": "",
+   "url": "https://whirledpies.com/event/3-21-whoop-whirled-4/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Jonathan Scales Fourchestra",
+   "date": "2026-03-25",
+   "time": "19:00",
+   "url": "https://whirledpies.com/event/3-25-jonathan-scales-fourchestra/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Petty Thievery",
+   "date": "2026-03-27",
+   "time": "",
+   "url": "https://whirledpies.com/event/3-27-petty-thievery/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "4th Annual HUMWE benefit Marimba party!",
+   "date": "2026-04-11",
+   "time": "17:00",
+   "url": "https://whirledpies.com/event/4-11-4th-annual-humwe-benefit-marimba-party/",
+   "type": "community"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "History Pub",
+   "date": "2026-04-13",
+   "time": "",
+   "url": "https://whirledpies.com/event/4-13-history-pub/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Jammin' With The Pros Jazz Jam",
+   "date": "2026-04-15",
+   "time": "",
+   "url": "https://whirledpies.com/event/4-15-jammin-with-the-pros-jazz-jam/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "MFG Maxwell Friedman Group",
+   "date": "2026-04-16",
+   "time": "",
+   "url": "https://whirledpies.com/event/4-16-mfg-maxwell-friedman-group/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Kinky Bingo",
+   "date": "2026-04-17",
+   "time": "21:00",
+   "url": "https://whirledpies.com/event/4-17-kinky-bingo/",
+   "type": "community"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Pekin",
+   "date": "2026-04-24",
+   "time": "",
+   "url": "https://whirledpies.com/event/4-24-pekin/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Pow Pro Wrestling",
+   "date": "2026-04-25",
+   "time": "18:00",
+   "url": "https://whirledpies.com/event/4-25-pow-pro-wrestling/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Eugene Deadhead Trivia",
+   "date": "2026-04-27",
+   "time": "",
+   "url": "https://whirledpies.com/event/4-27-eugene-deadhead-trivia/",
+   "type": "community"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "FLOSTATE",
+   "date": "2026-04-30",
+   "time": "",
+   "url": "https://whirledpies.com/event/4-30-flostate/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "The Gateway Show",
+   "date": "2026-05-01",
+   "time": "19:30",
+   "url": "https://whirledpies.com/event/5-01-the-gateway-show/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Bella Rayne Band",
+   "date": "2026-05-08",
+   "time": "20:00",
+   "url": "https://whirledpies.com/event/5-8-bella-rayne-band/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "The Grateful Web Presents: A Night With Shafty",
+   "date": "2026-05-09",
+   "time": "21:00",
+   "url": "https://whirledpies.com/event/5-9-the-grateful-web-presents-a-night-with-shafty/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "History Pub: Julie Weise",
+   "date": "2026-05-11",
+   "time": "",
+   "url": "https://whirledpies.com/event/5-11-history-pub-julie-weise/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Grateful To The Core",
+   "date": "2026-05-15",
+   "time": "18:00",
+   "url": "https://whirledpies.com/event/5-15-grateful-to-the-core/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "/2026 – An Evening with the Garcia Birthday Band",
+   "date": "2026-05-16",
+   "time": "20:00",
+   "url": "https://whirledpies.com/event/5-16-2026-an-evening-with-the-garcia-birthday-band/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Rosewater: A Tribute to the Grateful Dead FRIDAY",
+   "date": "2026-05-22",
+   "time": "",
+   "url": "https://whirledpies.com/event/5-22-rosewater-a-tribute-to-the-grateful-dead/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Rosewater: A Tribute to the Grateful Dead SATURDAY",
+   "date": "2026-05-23",
+   "time": "",
+   "url": "https://whirledpies.com/event/5-23-rosewater-a-tribute-to-the-grateful-dead/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Eugene Deadhead Trivia",
+   "date": "2026-05-25",
+   "time": "",
+   "url": "https://whirledpies.com/event/5-25-eugene-deadhead-trivia/",
+   "type": "community"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Kinky Bingo",
+   "date": "2026-05-29",
+   "time": "21:00",
+   "url": "https://whirledpies.com/event/5-29-kinky-bingo/",
+   "type": "community"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Matilda Fest – Oak Hill School Band Concert",
+   "date": "2026-06-02",
+   "time": "18:30",
+   "url": "https://whirledpies.com/event/6-2-matilda-fest-oak-hill-school-band-concert/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "The Gateway Show",
+   "date": "2026-06-05",
+   "time": "19:30",
+   "url": "https://whirledpies.com/event/4-3-the-gateway-show/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Left On Wilson",
+   "date": "2026-06-13",
+   "time": "20:00",
+   "url": "https://whirledpies.com/event/6-13-left-on-wilson/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Jammin' With The Pros Jazz Jam",
+   "date": "2026-06-17",
+   "time": "",
+   "url": "https://whirledpies.com/event/6-17-jammin-with-the-pros-jazz-jam/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Kinky Bingo",
+   "date": "2026-06-19",
+   "time": "21:00",
+   "url": "https://whirledpies.com/event/6-19-kinky-bingo/",
+   "type": "community"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Eugene Deadhead Trivia",
+   "date": "2026-06-29",
+   "time": "",
+   "url": "https://whirledpies.com/event/6-29-eugene-deadhead-trivia/",
+   "type": "community"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "The Gateway Comedy Show",
+   "date": "2026-07-03",
+   "time": "19:30",
+   "url": "https://whirledpies.com/event/7-3-the-gateway-comedy-show/",
+   "type": "arts"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Kinky Bingo",
+   "date": "2026-07-17",
+   "time": "21:00",
+   "url": "https://whirledpies.com/event/7-17-kinky-bingo-2/",
+   "type": "community"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Amusedays – Comedy open Mic with Chaz Every Tuesday",
+   "date": "2026-08-04",
+   "time": "",
+   "url": "https://whirledpies.com/event/amusedays-comedy-open-mic-with-chaz-every-tuesday-4/",
+   "type": "arts"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "The Gateway Show",
+   "date": "2026-08-07",
+   "time": "19:30",
+   "url": "https://whirledpies.com/event/8-7-the-gateway-show/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Amusedays – Comedy open Mic with Chaz Every Tuesday",
+   "date": "2026-08-18",
+   "time": "",
+   "url": "https://whirledpies.com/event/amusedays-comedy-open-mic-with-chaz-every-tuesday-5/",
+   "type": "arts"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Jammin' With The Pros Jazz Jam",
+   "date": "2026-08-19",
+   "time": "",
+   "url": "https://whirledpies.com/event/jammin-with-the-pros-jazz-jam/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Kinky Bingo",
+   "date": "2026-08-28",
+   "time": "21:00",
+   "url": "https://whirledpies.com/event/7-17-kinky-bingo/",
+   "type": "community"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Jammin' With The Pros Jazz Jam",
+   "date": "2026-09-02",
+   "time": "",
+   "url": "https://whirledpies.com/event/9-2-jammin-with-the-pros-jazz-jam/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "The Gateway Show",
+   "date": "2026-09-04",
+   "time": "19:30",
+   "url": "https://whirledpies.com/event/9-4-the-gateway-show/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Brown Stallion",
+   "date": "2026-09-11",
+   "time": "21:00",
+   "url": "https://whirledpies.com/event/9-11-brown-stallion/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Jammin' With The Pros Jazz Jam",
+   "date": "2026-09-16",
+   "time": "",
+   "url": "https://whirledpies.com/event/jammin-with-the-pros-jazz-jam-2/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Kinky Bingo",
+   "date": "2026-09-18",
+   "time": "21:00",
+   "url": "https://whirledpies.com/event/kinky-bingo/",
+   "type": "community"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "PEKIN",
+   "date": "2026-09-19",
+   "time": "",
+   "url": "https://whirledpies.com/event/9-19-pekin/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Sam Miller Comedy Benefit For Raven",
+   "date": "2026-10-01",
+   "time": "",
+   "url": "https://whirledpies.com/event/10-01-sam-miller-comedy-benefit-for-raven/",
+   "type": "community"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "The Gateway Show",
+   "date": "2026-10-02",
+   "time": "19:30",
+   "url": "https://whirledpies.com/event/10-2-the-gateway-show/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Jammin' With The Pros Jazz Jam",
+   "date": "2026-10-07",
+   "time": "",
+   "url": "https://whirledpies.com/event/8-5-8-19-jammin-with-the-pros-jazz-jam/",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Petty Thievery",
+   "date": "2026-10-10",
+   "time": "",
+   "url": "https://whirledpies.com/event/10-10-petty-thievery/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "The Jazz Station JAM",
+   "date": "2026-10-14",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/10/14/the-jazz-station-jam",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Patterns FLY: Andy Coe + D'Vonne Lewis + Galen Clark",
+   "date": "2026-10-15",
+   "time": "",
+   "url": "https://whirledpies.com/event/10-15-patterns-fly-andy-coe-dvonne-lewis-galen-clark/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "Oregon Jazz Ensemble",
+   "date": "2026-10-16",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/10/16/oregon-jazz-ensemble",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Kinky Bingo",
+   "date": "2026-10-16",
+   "time": "21:00",
+   "url": "https://whirledpies.com/event/10-16-kinky-bingo/",
+   "type": "community"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "SKELETONS",
+   "date": "2026-10-17",
+   "time": "",
+   "url": "https://whirledpies.com/event/10-17-skeletons/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "Gina Jukebox",
+   "date": "2026-10-17",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/10/17/gina-saputo",
+   "type": "concert"
+  },
+  {
+   "venue": "McDonald Theatre",
+   "title": "Jim Henson’s Labyrinth: In Concert 40th Anniversary VIP ADD-ON Package (Entry Ticket Not Included)",
+   "date": "2026-10-17",
+   "time": "20:00",
+   "url": "https://cascadetickets.com/event/jim-hensons-labyrinth-in-concert-40th-anniversary-vip-add-on-package-entry-ticket-not-included/mcdonald-theatre/",
+   "type": "concert"
+  },
+  {
+   "venue": "Autzen Stadium",
+   "title": "Oregon Ducks Football vs. Nebraska Cornhusker Football",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/oregon-ducks-football-vs-nebraska-cornhusker-eugene-oregon-10-17-2026/event/0F00648FEA03F7B2",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "Fox"
+    ]
+   }
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Moxie Dance Collective Presents: Return To The Scene",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/moxie-dance-collective-presents-return-wow-hall-tickets/15025973"
+  }
+ ]
+}
