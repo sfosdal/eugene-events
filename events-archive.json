@@ -651,6 +651,62 @@
    "date": "2026-10-17",
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/moxie-dance-collective-presents-return-wow-hall-tickets/15025973"
+  },
+  {
+   "venue": "Lane Events Center",
+   "title": "CAFE – The Comics Art Festival of Eugene",
+   "date": "2026-10-18",
+   "time": "11:00",
+   "url": "https://books-with-pictures-eugene.myshopify.com/",
+   "type": "community"
+  },
+  {
+   "venue": "Jane Sanders Stadium",
+   "title": "Oregon Softball vs Western Washington (DH)",
+   "date": "2026-10-18",
+   "time": "11:00",
+   "url": "https://admin.goducks.com/calendar.aspx?game_id=24598&sport_id=10",
+   "type": "sports"
+  },
+  {
+   "venue": "Matthew Knight Arena",
+   "title": "Oregon Ducks Volleyball vs. Rutgers Womens Volleyball",
+   "date": "2026-10-18",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/oregon-ducks-volleyball-vs-rutgers-womens-eugene-oregon-10-18-2026/event/0F0064EEBB35B780",
+   "type": "sports"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Ballet Fantastique: Nevermore",
+   "date": "2026-10-18",
+   "time": "14:30",
+   "url": "https://hultcenter.org/events/bfan-nevermore-2627/",
+   "type": "arts"
+  },
+  {
+   "venue": "Wildish Theater",
+   "title": "Chamber Music Amici- Three Bs",
+   "date": "2026-10-18",
+   "time": "15:00",
+   "url": "https://chambermusicamici.org/2026-2027-season/",
+   "type": "concert"
+  },
+  {
+   "venue": "McDonald Theatre",
+   "title": "Kristin Key",
+   "date": "2026-10-18",
+   "time": "19:00:00",
+   "url": "http://www.mcdonaldtheatre.com",
+   "type": "arts"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "The Blasting Company plays Over The Garden Wall",
+   "date": "2026-10-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/the-blasting-company-plays-over-wow-hall-tickets/14976093",
+   "type": "concert"
   }
  ]
 }
