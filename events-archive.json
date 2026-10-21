@@ -707,6 +707,38 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/the-blasting-company-plays-over-wow-hall-tickets/14976093",
    "type": "concert"
+  },
+  {
+   "venue": "Matthew Knight Arena",
+   "title": "Oregon Women's Basketball",
+   "date": "2026-10-20",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/oregon-womens-basketball-eugene-oregon-10-20-2026/event/0F0065419E477BB9",
+   "type": "sports"
+  },
+  {
+   "venue": "Wildish Theater",
+   "title": "Nekromantix",
+   "date": "2026-10-20",
+   "time": "19:00",
+   "url": "https://app.arts-people.com/index.php?show=358067",
+   "type": "arts"
+  },
+  {
+   "venue": "Beall Concert Hall",
+   "title": "UO Symphony Orchestra",
+   "date": "2026-10-20",
+   "time": "19:30",
+   "url": "https://ticket.uoregon.edu/somd27/10578",
+   "type": "arts"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Kota The Friend",
+   "date": "2026-10-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/kota-the-friend-wow-hall-tickets/14238224",
+   "type": "concert"
   }
  ]
 }
