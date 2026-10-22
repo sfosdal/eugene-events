@@ -17,6 +17,7 @@ import { writeFileSync, readFileSync } from 'node:fs';
 import { buildIcs } from './ics.mjs';
 import { dropTimeClashes, isChurch } from './sources.mjs';
 import { mergeWithArchive, unionArchives, eventKey } from './merge.mjs';
+import { fixLinks } from './links.mjs';
 import { calmTitle, isNotice } from './titles.mjs';
 import { applySchedules } from './schedules.mjs';
 import { slugify, BADGE_FEEDS, TEAMS, CITY } from './badges.mjs';
@@ -159,7 +160,7 @@ export function parseWhirledPies(posts) {
     for (const m of lead[1].matchAll(/(\d{1,2})\/(\d{1,2})/g)) {
       const mo = m[1].padStart(2, '0'); const d = m[2].padStart(2, '0');
       let y = Number(posted.slice(0, 4)); if (`${y}-${mo}-${d}` < posted) y += 1;
-      out.push({ venue: 'Whirled Pies', title, date: `${y}-${mo}-${d}`, time, url: post.link || 'https://whirledpies.com/events/', type });
+      out.push({ venue: 'Whirled Pies', title, date: `${y}-${mo}-${d}`, time, url: post.link || 'https://whirledpies.com/calendar/', type });
     }
   }
   return out;
@@ -372,6 +373,7 @@ if (Object.keys(seasons).length) {
   console.error('teams.json: no season fetched this run, the last one stands');
 }
 
+await fixLinks(merged, { venues: CITY.venues, today }); // ticket links that reach a real page: no scheme-less or wrapped links, a 404 goes to the venue's page (scripts/links.mjs)
 writeFileSync(JSON_OUT, JSON.stringify({ generated: new Date().toISOString(), events: merged }, null, 2) + '\n');
 // the archive record: this build's past events on top of everything already
 // recorded, never pruned (the feed keeps a year; the branch keeps it all)
