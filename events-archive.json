@@ -739,6 +739,46 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/kota-the-friend-wow-hall-tickets/14238224",
    "type": "concert"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "Jackson Stiehl Quintet",
+   "date": "2026-10-21",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/10/21/one-set-wednesday",
+   "type": "concert"
+  },
+  {
+   "venue": "Beall Concert Hall",
+   "title": "Faculty Artist Recital: Margarite Waddell",
+   "date": "2026-10-21",
+   "time": "19:00",
+   "url": "https://ticket.uoregon.edu/somd27/10579",
+   "type": "arts"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "An Evening with Bill Nye",
+   "date": "2026-10-21",
+   "time": "19:00",
+   "url": "https://hultcenter.org/events/bill-nye-26/",
+   "type": "arts"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "The Brothers Reed",
+   "date": "2026-10-21",
+   "time": "19:30",
+   "url": "https://hultcenter.org/events/the-brothers-reed/",
+   "type": "arts"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Diggin' Dirt",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/diggin-dirt-wow-hall-tickets/14222114",
+   "type": "concert"
   }
  ]
 }
