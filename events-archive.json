@@ -779,6 +779,38 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/diggin-dirt-wow-hall-tickets/14222114",
    "type": "concert"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "Carl Woideck Quintet",
+   "date": "2026-10-22",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/10/22/carl-woideck",
+   "type": "concert"
+  },
+  {
+   "venue": "Beall Concert Hall",
+   "title": "Liszt's Legacy: A Celebration of Pupils of Franz Liszt",
+   "date": "2026-10-22",
+   "time": "19:30",
+   "url": "https://ticket.uoregon.edu/somd27/10580",
+   "type": "arts"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Twin Peaks: A Conversation with the Stars",
+   "date": "2026-10-22",
+   "time": "19:30",
+   "url": "https://hultcenter.org/events/twin-peaks-a-conversation/",
+   "type": "arts"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Stinkfoot Orchestra featuring Napoleon Murphy Brock",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/stinkfoot-orchestra-featuring-napoleon-murphy-wow-hall-tickets/14236034",
+   "type": "concert"
   }
  ]
 }
