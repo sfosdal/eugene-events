@@ -811,6 +811,62 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/stinkfoot-orchestra-featuring-napoleon-murphy-wow-hall-tickets/14236034",
    "type": "concert"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "The Jazz Symbiosis Sextet",
+   "date": "2026-10-23",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/10/23/jazz-symbiosis",
+   "type": "concert"
+  },
+  {
+   "venue": "Lane Events Center",
+   "title": "Eugene Ski Swap",
+   "date": "2026-10-23",
+   "time": "17:00",
+   "url": "http://www.eugeneskiswap.org/",
+   "type": "community"
+  },
+  {
+   "venue": "Lane Events Center",
+   "title": "Lane County Home Improvement Show",
+   "date": "2026-10-23",
+   "time": "17:00",
+   "url": "https://eugenehomeshow.com/our-shows/lane-county-home-improvement-show/",
+   "type": "community"
+  },
+  {
+   "venue": "Beall Concert Hall",
+   "title": "Oregon Wind Ensemble & Oregon Wind Symphony",
+   "date": "2026-10-23",
+   "time": "19:30",
+   "url": "https://ticket.uoregon.edu/somd27/10581",
+   "type": "arts"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "The Moth Mainstage: TIGHTROPE",
+   "date": "2026-10-23",
+   "time": "19:30",
+   "url": "https://hultcenter.org/events/the-moth-2026/",
+   "type": "arts"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "The Moth",
+   "date": "2026-10-23",
+   "time": "19:30:00",
+   "url": "http://hultcenter.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Cherry Poppin' Daddies: Modsquadrophenia",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/cherry-poppin-daddies-modsquadrophenia-wow-hall-tickets/14281274",
+   "type": "concert"
   }
  ]
 }
