@@ -867,6 +867,70 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/cherry-poppin-daddies-modsquadrophenia-wow-hall-tickets/14281274",
    "type": "concert"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "John Storie Quartet",
+   "date": "2026-10-24",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/10/24/john-storie",
+   "type": "concert"
+  },
+  {
+   "venue": "Lane Events Center",
+   "title": "2026 Willamette Valley Handmade Market",
+   "date": "2026-10-24",
+   "time": "10:00",
+   "url": "https://www.laneeventscenter.org/event/2026-willamette-valley-handmade-market/",
+   "type": "community"
+  },
+  {
+   "venue": "Goss Stadium",
+   "title": "Oregon State Baseball vs Lower Columbia CC",
+   "date": "2026-10-24",
+   "time": "12:00",
+   "url": "https://osubeavers.evenue.net/event/BB27/BB000",
+   "type": "sports"
+  },
+  {
+   "venue": "Jane Sanders Stadium",
+   "title": "Oregon Softball vs Oregon Tech",
+   "date": "2026-10-24",
+   "time": "13:30",
+   "url": "https://admin.goducks.com/calendar.aspx?game_id=24599&sport_id=10",
+   "type": "sports"
+  },
+  {
+   "venue": "Jane Sanders Stadium",
+   "title": "Oregon Softball vs Mt. Hood CC",
+   "date": "2026-10-24",
+   "time": "16:00",
+   "url": "https://admin.goducks.com/calendar.aspx?game_id=24600&sport_id=10",
+   "type": "sports"
+  },
+  {
+   "venue": "Wildish Theater",
+   "title": "House of DeVille presents: Madera Muerta",
+   "date": "2026-10-24",
+   "time": "19:30",
+   "url": "https://www.thehouseofdeville.com/events/eugene-or-madera-muerta-halloween-burlesque-show",
+   "type": "arts"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Portland Cello Project: Mixtape Unplugged",
+   "date": "2026-10-24",
+   "time": "20:00",
+   "url": "https://hultcenter.org/events/portland-cello-project-2026/",
+   "type": "arts"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Tom Hamilton",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/tom-hamilton-wow-hall-tickets/15020253",
+   "type": "concert"
   }
  ]
 }
