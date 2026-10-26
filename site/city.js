@@ -93,6 +93,7 @@
   var VENUES = {
     // --- Eugene: the arena and the stadium, the Hult, the Kesey rooms, the WOW Hall, the clubs, the campus grounds ---
     'Matthew Knight Arena': { // the Ducks' arena (basketball, volleyball) and the biggest concerts
+      geo: [44.04497, -123.06682],
       capacity: 12364,
       type: 'sports',
       cssVar: '--v-knight',
@@ -103,6 +104,7 @@
       alias: /matthew knight|knight arena/i,
     },
     'Autzen Stadium': { // Ducks football
+      geo: [44.05593, -123.063],
       capacity: 54000,
       type: 'sports',
       cssVar: '--v-autzen',
@@ -113,6 +115,7 @@
       alias: /autzen/i,
     },
     'PK Park': { // the Emeralds' and the Ducks' ballpark — Ticketmaster lists nothing there, so the Emeralds come from MiLB's schedule (inject) and the Ducks from the GoDucks calendar
+      geo: [44.05594, -123.06297],
       capacity: 4000,
       type: 'sports',
       cssVar: '--v-pkpark',
@@ -123,6 +126,7 @@
       alias: /pk park/i,
     },
     'Hult Center': { // the Silva Concert Hall and the Soreng Theater: the symphony, the ballet, the opera, Broadway, comedy — its own listing pages (FEEDS, `linked`), Ticketmaster second
+      geo: [44.05249, -123.09322],
       capacity: 2448,
       type: 'arts',
       cssVar: '--v-hult',
@@ -133,6 +137,7 @@
       alias: /hult center|silva concert hall|soreng/i,
     },
     'McDonald Theatre': { // Kesey Enterprises' 1925 house on Willamette — its Cascade Tickets listing (`cards`), Ticketmaster second
+      geo: [44.04862, -123.09277],
       capacity: 1200,
       type: 'concert',
       cssVar: '--v-mcdonald',
@@ -144,6 +149,7 @@
       alias: /mcdonald theat/i,
     },
     'Cuthbert Amphitheater': { // Alton Baker Park's summer shed, Kesey's too — the season runs May to September
+      geo: [44.05595, -123.07569],
       capacity: 5000,
       type: 'concert',
       cssVar: '--v-cuthbert',
@@ -155,6 +161,7 @@
       alias: /cuthbert/i,
     },
     'WOW Hall': { // the Community Center for the Performing Arts, the 1932 Woodmen of the World hall — Ticketmaster lists its shows (its own calendar adds only classes and rentals)
+      geo: [44.05121, -123.09706],
       capacity: 800,
       type: 'concert',
       cssVar: '--v-wow',
@@ -165,6 +172,7 @@
       alias: /wow hall|community center for the performing arts/i,
     },
     'Lane Events Center': { // the county fairgrounds: the Wheeler Pavilion and the Performance Hall — its own Events Calendar feed (`tribe`) with Ticketmaster for the touring shows
+      geo: [44.04381, -123.10729],
       capacity: 7000,
       type: 'community',
       cssVar: '--v-laneevents',
@@ -176,6 +184,7 @@
       alias: /lane events center|lane county fair|wheeler pavilion/i,
     },
     'Beall Concert Hall': { // the School of Music and Dance's 1921 hall — UO's Localist calendar, by venue id
+      geo: [44.04101, -123.07815],
       capacity: 500,
       type: 'arts',
       cssVar: '--v-beall',
@@ -186,6 +195,7 @@
       alias: /beall/i,
     },
     'Whirled Pies': { // the downtown pizzeria's stage — its WordPress event posts (fetch-events.mjs parseWhirledPies)
+      geo: [44.05114, -123.09564],
       capacity: 300,
       type: 'concert',
       cssVar: '--v-whirled',
@@ -195,6 +205,7 @@
       alias: /whirled pies/i,
     },
     'The Jazz Station': { // the 70-seat nonprofit club on Broadway — its Wix calendar's cards (fetch-events.mjs parseJazzStation; the page prints no clocks)
+      geo: [44.0509, -123.0939],
       capacity: 70,
       type: 'concert',
       cssVar: '--v-jazz',
@@ -204,6 +215,7 @@
       alias: /jazz station/i,
     },
     'Very Little Theatre': { // the 1929 community theatre — its Ludus box office (`ludus`)
+      geo: [44.03406, -123.08254],
       capacity: 300,
       type: 'arts',
       cssVar: '--v-vlt',
@@ -214,6 +226,7 @@
       alias: /very little theat|\bvlt\b/i,
     },
     'Hayward Field': { // the track — the GoDucks calendar (FEEDS, `icsfile`) lists the meets; Ticketmaster has nothing
+      geo: [44.04222, -123.0708],
       capacity: 12650,
       type: 'sports',
       cssVar: '--v-hayward',
@@ -223,6 +236,7 @@
       alias: /hayward field/i,
     },
     'Jane Sanders Stadium': { // Ducks softball — the GoDucks calendar
+      geo: [44.04068, -123.07335],
       capacity: 2500,
       type: 'sports',
       cssVar: '--v-sanders',
@@ -232,6 +246,7 @@
       alias: /jane sanders/i,
     },
     'Papé Field': { // Ducks soccer and lacrosse — the GoDucks calendar
+      geo: [44.05741, -123.06537],
       capacity: 1500,
       type: 'sports',
       cssVar: '--v-pape',
@@ -242,6 +257,7 @@
     },
     // --- beyond the city: Springfield's theatre, Corvallis and the Beavers ---
     'Wildish Theater': { // Springfield's 1940s cinema turned 280-seat theatre — its own Events Calendar feed (`tribe`), Ticketmaster second
+      geo: [44.04635, -123.01827],
       capacity: 280,
       type: 'arts',
       area: 'town',
@@ -254,6 +270,7 @@
       alias: /wildish/i,
     },
     'Reser Stadium': { // Corvallis — Beavers football
+      geo: [44.56353, -123.27971],
       capacity: 35548,
       type: 'sports',
       area: 'town',
@@ -265,6 +282,7 @@
       alias: /reser stadium/i,
     },
     'Gill Coliseum': { // Corvallis — Beavers basketball, volleyball, gymnastics and wrestling
+      geo: [44.56395, -123.28154],
       capacity: 9301,
       type: 'sports',
       area: 'town',
@@ -276,6 +294,7 @@
       alias: /gill coliseum/i,
     },
     'LaSells Stewart Center': { // Corvallis — OSU's Austin Auditorium: the touring ballet and the lecture series Ticketmaster carries
+      geo: [44.55909, -123.27955],
       capacity: 1200,
       type: 'arts',
       area: 'town',
@@ -287,6 +306,7 @@
       alias: /lasells|austin auditorium/i,
     },
     'Goss Stadium': { // Corvallis — Beavers baseball at Coleman Field: the OSU calendar (`icsfile`, this ground only); Ticketmaster lists nothing there
+      geo: [44.56311, -123.27792],
       capacity: 3248,
       type: 'sports',
       area: 'town',
@@ -382,6 +402,18 @@
     ics: { name: 'Eugene Events', short: 'Eugene Events', teams: 'Eugene home teams — every season', prodid: '-//here.events//eugene-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
       desc: 'Upcoming events in Eugene\, OR — Matthew Knight Arena\, Autzen Stadium\, PK Park\, the Hult Center\, the McDonald\, the Cuthbert\, the WOW Hall\, the clubs\, the campus grounds\, Springfield and Corvallis' },
     teams: TEAMS,
+    map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
+      kind: 'urban',
+      bbox: [43.955, -123.321, 44.643, -122.979], // south, west, north, east — every room, with a margin
+      home: [44.028, -123.118, 44.063, -123.052], // the view at first: the city's own rooms; the fit button shows the whole frame
+      roads: ['motorway', 'trunk', 'primary'],
+      tolerance: 0.8,
+      labels: [
+        { name: 'Eugene', lat: 44.052, lon: -123.087, anchor: 'middle' },
+        { name: 'Springfield', lat: 44.04624, lon: -123.02203, anchor: 'middle' },
+        { name: 'Corvallis', lat: 44.56457, lon: -123.26204, anchor: 'middle' },
+      ],
+    },
     venues: VENUES,
     feeds: FEEDS,
     defaultOn: DEFAULT_ON,
