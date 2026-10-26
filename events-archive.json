@@ -931,6 +931,63 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/tom-hamilton-wow-hall-tickets/15020253",
    "type": "concert"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "Buster Williams Trio",
+   "date": "2026-10-25",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/10/25/buster-williams",
+   "type": "concert",
+   "soldOut": true
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "UO Lab Bands II & Iii",
+   "date": "2026-10-25",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/10/25/uo-lab-bands-ii-iii",
+   "type": "concert"
+  },
+  {
+   "venue": "Jane Sanders Stadium",
+   "title": "Oregon Softball vs Southwestern Oregon CC",
+   "date": "2026-10-25",
+   "time": "11:00",
+   "url": "https://admin.goducks.com/calendar.aspx?game_id=24601&sport_id=10",
+   "type": "sports"
+  },
+  {
+   "venue": "Jane Sanders Stadium",
+   "title": "Oregon Softball vs Southern Oregon",
+   "date": "2026-10-25",
+   "time": "13:30",
+   "url": "https://admin.goducks.com/calendar.aspx?game_id=24602&sport_id=10",
+   "type": "sports"
+  },
+  {
+   "venue": "Matthew Knight Arena",
+   "title": "Oregon Ducks Men's Basketball vs. Stanford Cardinal Mens Basketball",
+   "date": "2026-10-25",
+   "time": "13:30:00",
+   "url": "https://www.ticketmaster.com/oregon-ducks-mens-basketball-vs-stanford-eugene-oregon-10-25-2026/event/0F00653E8025406D",
+   "type": "sports"
+  },
+  {
+   "venue": "McDonald Theatre",
+   "title": "Paul Cauthen w/ Leon Majcen",
+   "date": "2026-10-25",
+   "time": "19:00:00",
+   "url": "http://www.mcdonaldtheatre.com",
+   "type": "concert"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Slow Pulp",
+   "date": "2026-10-25",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/slow-pulp-wow-hall-tickets/15021143",
+   "type": "concert"
   }
  ]
 }
