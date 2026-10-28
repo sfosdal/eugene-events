@@ -996,6 +996,30 @@
    "time": "",
    "url": "https://whirledpies.com/event/10-26-eugene-deadhead-trivia/",
    "type": "community"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Kattam and his Tam-Tams",
+   "date": "2026-10-27",
+   "time": "18:30",
+   "url": "https://hultcenter.org/events/kattam-and-his-tam-tams/",
+   "type": "arts"
+  },
+  {
+   "venue": "Beall Concert Hall",
+   "title": "Faculty Artist Recital: Pius Cheung and the Oregon Percussion Ensemble, with special guest, Eriko Daimo",
+   "date": "2026-10-27",
+   "time": "19:30",
+   "url": "https://ticket.uoregon.edu/somd27/10583",
+   "type": "arts"
+  },
+  {
+   "venue": "McDonald Theatre",
+   "title": "Everclear",
+   "date": "2026-10-27",
+   "time": "20:00:00",
+   "url": "http://www.mcdonaldtheatre.com",
+   "type": "concert"
   }
  ]
 }
