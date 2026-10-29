@@ -1020,6 +1020,30 @@
    "time": "20:00:00",
    "url": "http://www.mcdonaldtheatre.com",
    "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Paint And Sip at Whirled Pies – Purple Moonlit Crow",
+   "date": "2026-10-28",
+   "time": "",
+   "url": "https://whirledpies.com/event/10-28-paint-and-sip-at-whirled-pies-purple-moonlit-crow/",
+   "type": "community"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "Eugene's Home For Live Jazz",
+   "date": "2026-10-28",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/10/28/the-jazz-station-jam",
+   "type": "concert"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Steely Dead",
+   "date": "2026-10-28",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/steely-dead-wow-hall-tickets/14238714",
+   "type": "concert"
   }
  ]
 }
