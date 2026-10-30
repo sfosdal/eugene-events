@@ -1044,6 +1044,38 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/steely-dead-wow-hall-tickets/14238714",
    "type": "concert"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "Luther S. Allison",
+   "date": "2026-10-29",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/10/29/luther-s-allison",
+   "type": "concert"
+  },
+  {
+   "venue": "Wildish Theater",
+   "title": "A Night in Solidarity with Farm Worker Rights",
+   "date": "2026-10-29",
+   "time": "17:00",
+   "url": "https://wildishtheater.com/event/eugene-farm-workers-fundraiser/",
+   "type": "arts"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Disco Halloween Extravaganza -A Benefit for KindTree-Autism Rocks",
+   "date": "2026-10-29",
+   "time": "18:00",
+   "url": "https://whirledpies.com/event/10-29-disco-halloween-extravaganza-a-benefit-for-kindtree-autism-rocks/",
+   "type": "community"
+  },
+  {
+   "venue": "Gill Coliseum",
+   "title": "Oregon State Beavers Womens Volleyball vs. Gonzaga Bulldogs Womens Volleyball",
+   "date": "2026-10-29",
+   "time": "18:00:00",
+   "url": "https://osubeavers.com/sports/mens-basketball/schedule",
+   "type": "sports"
   }
  ]
 }
