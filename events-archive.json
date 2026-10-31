@@ -1076,6 +1076,54 @@
    "time": "18:00:00",
    "url": "https://osubeavers.com/sports/mens-basketball/schedule",
    "type": "sports"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Halloween Hullabaloo Costume Ball",
+   "date": "2026-10-30",
+   "time": "",
+   "url": "https://whirledpies.com/event/10-30-halloween-hullabaloo-costume-ball/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "UO Small Ensembles",
+   "date": "2026-10-30",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/10/30/uo-small-ensembles",
+   "type": "concert"
+  },
+  {
+   "venue": "Lane Events Center",
+   "title": "EWEB Halloween Truck-or-Treat",
+   "date": "2026-10-30",
+   "time": "16:00",
+   "url": "https://www.eweb.org/your-public-utility/calendar",
+   "type": "community"
+  },
+  {
+   "venue": "Matthew Knight Arena",
+   "title": "Oregon Ducks Volleyball vs. University of Maryland Terrapins Volleyball",
+   "date": "2026-10-30",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/oregon-ducks-volleyball-vs-university-of-eugene-oregon-10-30-2026/event/0F0064EEBB3AB789",
+   "type": "sports"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Eugene Ballet: Taming of the Shrew",
+   "date": "2026-10-30",
+   "time": "19:30",
+   "url": "https://hultcenter.org/events/ebc-taming-of-the-shrew-26/",
+   "type": "arts"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Emo Nite",
+   "date": "2026-10-30",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/emo-nite-wow-hall-tickets/14291884",
+   "type": "concert"
   }
  ]
 }
