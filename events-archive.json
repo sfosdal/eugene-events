@@ -1124,6 +1124,60 @@
    "time": "21:00:00",
    "url": "https://www.ticketweb.com/event/emo-nite-wow-hall-tickets/14291884",
    "type": "concert"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "The Roger Woods Tentet",
+   "date": "2026-10-31",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/10/31/the-roger-woods-tentet",
+   "type": "concert",
+   "soldOut": true
+  },
+  {
+   "venue": "Autzen Stadium",
+   "title": "Oregon Ducks Football vs. Northwestern Wildcats Football",
+   "date": "2026-10-31",
+   "time": "12:30:00",
+   "url": "https://www.ticketmaster.com/oregon-ducks-football-vs-northwestern-wildcats-eugene-oregon-10-31-2026/event/0F00648FEA07F7BF",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "Peacock"
+    ]
+   }
+  },
+  {
+   "venue": "Gill Coliseum",
+   "title": "Oregon State Beavers Womens Volleyball vs. Colorado State University Rams Womens Volleyball",
+   "date": "2026-10-31",
+   "time": "13:00:00",
+   "url": "https://osubeavers.com/sports/mens-basketball/schedule",
+   "type": "sports"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Witches Ball 2026",
+   "date": "2026-10-31",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/witches-ball-2026-wow-hall-tickets/14322544",
+   "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Halloween Costume Party Love in the Dream | Ripple Vision",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "url": "https://whirledpies.com/event/10-30-halloween-costume-party-love-in-the-dream-ripple-vision/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Haunted Hult with Shelley James & Agents of Unity",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "url": "https://hultcenter.org/events/haunted-hult-26/",
+   "type": "arts"
   }
  ]
 }
