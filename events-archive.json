@@ -1178,6 +1178,38 @@
    "time": "20:00",
    "url": "https://hultcenter.org/events/haunted-hult-26/",
    "type": "arts"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "Anthea Kreston",
+   "date": "2026-11-01",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/11/1/classical-on-broadway",
+   "type": "concert"
+  },
+  {
+   "venue": "Jane Sanders Stadium",
+   "title": "Oregon Softball vs Oregon Scrimmage (10 Inn.)",
+   "date": "2026-11-01",
+   "time": "10:30",
+   "url": "https://admin.goducks.com/calendar.aspx?game_id=24603&sport_id=10",
+   "type": "sports"
+  },
+  {
+   "venue": "Matthew Knight Arena",
+   "title": "Oregon Ducks Volleyball vs. University of Iowa Volleyball",
+   "date": "2026-11-01",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/oregon-ducks-volleyball-vs-university-of-eugene-oregon-11-01-2026/event/0F0064EEBB3EB793",
+   "type": "sports"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Eugene Ballet: Taming of the Shrew",
+   "date": "2026-11-01",
+   "time": "14:00",
+   "url": "https://hultcenter.org/events/ebc-taming-of-the-shrew-26/",
+   "type": "arts"
   }
  ]
 }
