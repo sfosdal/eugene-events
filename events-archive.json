@@ -1210,6 +1210,48 @@
    "time": "14:00",
    "url": "https://hultcenter.org/events/ebc-taming-of-the-shrew-26/",
    "type": "arts"
+  },
+  {
+   "venue": "Gill Coliseum",
+   "title": "Oregon State Beavers Mens Basketball vs. Weber State Wildcats Mens Basketball",
+   "date": "2026-11-02",
+   "time": "",
+   "url": "https://osubeavers.com/sports/mens-basketball/schedule",
+   "type": "sports"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "Eugene's Home For Live Jazz",
+   "date": "2026-11-02",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/11/2/first-monday-night-big-band",
+   "type": "concert"
+  },
+  {
+   "venue": "Matthew Knight Arena",
+   "title": "Oregon Women's Basketball vs. University of Hawaii Warriors Women's Basketball",
+   "date": "2026-11-02",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/oregon-womens-basketball-vs-university-of-eugene-oregon-11-02-2026/event/0F0065419E587BCC",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
+  },
+  {
+   "venue": "Matthew Knight Arena",
+   "title": "Oregon Ducks Men's Basketball vs. University of Montana Grizzlies Mens Basketball",
+   "date": "2026-11-02",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/oregon-ducks-mens-basketball-vs-university-eugene-oregon-11-02-2026/event/0F00653E80294073",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "BTN"
+    ]
+   }
   }
  ]
 }
