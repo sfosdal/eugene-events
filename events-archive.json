@@ -1252,6 +1252,22 @@
      "BTN"
     ]
    }
+  },
+  {
+   "venue": "Beall Concert Hall",
+   "title": "OcTUBAfest",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "url": "https://calendar.uoregon.edu/event/octubafest-4779",
+   "type": "arts"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Fox Stevenson & Mystery Skulls",
+   "date": "2026-11-03",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/fox-stevenson-mystery-skulls-wow-hall-tickets/14282044",
+   "type": "concert"
   }
  ]
 }
