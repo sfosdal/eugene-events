@@ -1268,6 +1268,38 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/fox-stevenson-mystery-skulls-wow-hall-tickets/14282044",
    "type": "concert"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Jammin' With The Pros Jazz Jam",
+   "date": "2026-11-04",
+   "time": "",
+   "url": "https://whirledpies.com/event/7-1-and-7-15-jammin-with-the-pros-jazz-jam/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Indigenous Film Night: Gather",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "url": "https://hultcenter.org/events/indigenous-film-night-gather/",
+   "type": "arts"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Skeleton Crewe",
+   "date": "2026-11-04",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/skeleton-crewe-wow-hall-tickets/14808983",
+   "type": "concert"
+  },
+  {
+   "venue": "McDonald Theatre",
+   "title": "Railroad Earth",
+   "date": "2026-11-04",
+   "time": "20:00:00",
+   "url": "http://www.mcdonaldtheatre.com",
+   "type": "concert"
   }
  ]
 }
