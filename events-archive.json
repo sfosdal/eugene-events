@@ -1300,6 +1300,22 @@
    "time": "20:00:00",
    "url": "http://www.mcdonaldtheatre.com",
    "type": "concert"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "The Flatt Stanley Incident",
+   "date": "2026-11-05",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/11/5/first-thursday-acoustic-americana",
+   "type": "concert"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Mdou Moctar (solo)",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/mdou-moctar-solo-wow-hall-tickets/14281264",
+   "type": "concert"
   }
  ]
 }
