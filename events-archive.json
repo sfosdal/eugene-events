@@ -1316,6 +1316,93 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/mdou-moctar-solo-wow-hall-tickets/14281264",
    "type": "concert"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "UO Small Ensembles",
+   "date": "2026-11-06",
+   "time": "",
+   "url": "https://www.thejazzstation.org/calendar#!event/2026/11/6/uo-small-ensembles",
+   "type": "concert"
+  },
+  {
+   "venue": "Lane Events Center",
+   "title": "Gem Faire",
+   "date": "2026-11-06",
+   "time": "12:00",
+   "url": "https://www.laneeventscenter.org/events/",
+   "type": "community"
+  },
+  {
+   "venue": "Matthew Knight Arena",
+   "title": "Oregon Ducks Men's Basketball vs. Eastern Washington Men's Basketball",
+   "date": "2026-11-06",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/oregon-ducks-mens-basketball-vs-eastern-eugene-oregon-11-06-2026/event/0F00653E802E407B",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
+  },
+  {
+   "venue": "Gill Coliseum",
+   "title": "Oregon State Beavers Mens Basketball vs. California Baptist Lancers Mens Basketball",
+   "date": "2026-11-06",
+   "time": "18:30:00",
+   "url": "https://osubeavers.com/sports/mens-basketball/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "YouTube"
+    ]
+   }
+  },
+  {
+   "venue": "Wildish Theater",
+   "title": "RCT – James & the Giant Peach",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "url": "https://wildishtheater.com/event/rct-james-the-giant-peach/",
+   "type": "arts"
+  },
+  {
+   "venue": "Matthew Knight Arena",
+   "title": "Oregon Women's Basketball vs. Washington State Women's Basketball",
+   "date": "2026-11-06",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/oregon-womens-basketball-vs-washington-state-eugene-oregon-11-06-2026/event/0F0065419E5E7BD5",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "The Gateway Show",
+   "date": "2026-11-06",
+   "time": "19:30",
+   "url": "https://whirledpies.com/event/11-6-the-gateway-show/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Water for Elephants",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://hultcenter.org/events/water-for-elephants/",
+   "type": "arts"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Improvement Movement",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/improvement-movement-wow-hall-tickets/14257294",
+   "type": "concert"
   }
  ]
 }
