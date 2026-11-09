@@ -1480,6 +1480,38 @@
    "time": "21:00:00",
    "url": "https://www.ticketweb.com/event/club-slayyy-slayyyter-hyperpop-wow-hall-tickets/14337114",
    "type": "concert"
+  },
+  {
+   "venue": "Lane Events Center",
+   "title": "Fill Your Pantry",
+   "date": "2026-11-08",
+   "time": "13:00",
+   "url": "https://www.laneeventscenter.org/events/",
+   "type": "community"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Water for Elephants",
+   "date": "2026-11-08",
+   "time": "13:00",
+   "url": "https://hultcenter.org/events/water-for-elephants/",
+   "type": "arts"
+  },
+  {
+   "venue": "Matthew Knight Arena",
+   "title": "Oregon Ducks Volleyball vs. Northwestern Wildcats Women's Volleyball",
+   "date": "2026-11-08",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/oregon-ducks-volleyball-vs-northwestern-wildcats-eugene-oregon-11-08-2026/event/0F0064EEBB15B749",
+   "type": "sports"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Water for Elephants",
+   "date": "2026-11-08",
+   "time": "18:30",
+   "url": "https://hultcenter.org/events/water-for-elephants/",
+   "type": "arts"
   }
  ]
 }
