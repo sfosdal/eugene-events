@@ -1512,6 +1512,19 @@
    "time": "18:30",
    "url": "https://hultcenter.org/events/water-for-elephants/",
    "type": "arts"
+  },
+  {
+   "venue": "Gill Coliseum",
+   "title": "Oregon State Beavers Mens Basketball vs. Eastern Washington Eagles Mens Basketball",
+   "date": "2026-11-09",
+   "time": "18:30:00",
+   "url": "https://osubeavers.com/sports/mens-basketball/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "YouTube"
+    ]
+   }
   }
  ]
 }
