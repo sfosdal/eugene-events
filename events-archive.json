@@ -1525,6 +1525,27 @@
      "YouTube"
     ]
    }
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "Eugene's Home For Live Jazz",
+   "date": "2026-11-11",
+   "time": "",
+   "url": "https://www.thejazzstation.org/shows",
+   "type": "concert"
+  },
+  {
+   "venue": "Matthew Knight Arena",
+   "title": "Oregon Ducks Men's Basketball vs. Mississippi Valley State Delta Devils Mens Basketball",
+   "date": "2026-11-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/oregon-ducks-mens-basketball-vs-mississippi-eugene-oregon-11-11-2026/event/0F00653E80324084",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   }
   }
  ]
 }
