@@ -1546,6 +1546,22 @@
      "B1G+"
     ]
    }
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "FLOSTATE",
+   "date": "2026-11-12",
+   "time": "",
+   "url": "https://whirledpies.com/event/11-12-flostate/",
+   "type": "concert"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Solas",
+   "date": "2026-11-12",
+   "time": "19:30",
+   "url": "https://hultcenter.org/events/solas/",
+   "type": "arts"
   }
  ]
 }
