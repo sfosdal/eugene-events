@@ -1562,6 +1562,56 @@
    "time": "19:30",
    "url": "https://hultcenter.org/events/solas/",
    "type": "arts"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "The Steve Owen Quartet",
+   "date": "2026-11-13",
+   "time": "",
+   "url": "https://www.thejazzstation.org/shows",
+   "type": "concert",
+   "soldOut": true
+  },
+  {
+   "venue": "Gill Coliseum",
+   "title": "Oregon State Beavers Mens Basketball vs. Mississippi Valley Delta Devils Mens Basketball",
+   "date": "2026-11-13",
+   "time": "18:30:00",
+   "url": "https://osubeavers.com/sports/mens-basketball/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "YouTube"
+    ]
+   }
+  },
+  {
+   "venue": "Beall Concert Hall",
+   "title": "Faculty Artist Recital: Sunmi Chang, Brian Hsu, and Steve Pologe",
+   "date": "2026-11-13",
+   "time": "19:30",
+   "url": "https://ticket.uoregon.edu/somd27/10585",
+   "type": "arts"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Louie The Singer",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/louie-the-singer-wow-hall-tickets/14352184",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-11-10T20:16:51.031Z"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Louie TheSinger",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/louie-thesinger-wow-hall-tickets/14346794",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-11-10T20:16:51.031Z"
   }
  ]
 }
