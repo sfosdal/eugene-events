@@ -1612,6 +1612,68 @@
    "type": "concert",
    "status": "cancelled",
    "statusSince": "2026-11-10T20:16:51.031Z"
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Love Mischief | Pekin",
+   "date": "2026-11-14",
+   "time": "",
+   "url": "https://whirledpies.com/event/11-14-love-mischief-pekin/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "Calvin Orlando Smith",
+   "date": "2026-11-14",
+   "time": "",
+   "url": "https://www.thejazzstation.org/shows",
+   "type": "concert",
+   "soldOut": true
+  },
+  {
+   "venue": "Autzen Stadium",
+   "title": "Oregon Ducks Football vs. University of Michigan Wolverines Football",
+   "date": "2026-11-14",
+   "time": "12:30:00",
+   "url": "https://www.ticketmaster.com/oregon-ducks-football-vs-university-of-eugene-oregon-11-14-2026/event/0F00648FEA0CF7C6",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "FS1"
+    ]
+   }
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Rodgers & Hammerstein's The Sound of Music Sing-A-Long",
+   "date": "2026-11-14",
+   "time": "14:00",
+   "url": "https://hultcenter.org/events/sound-of-music-singalong/",
+   "type": "arts"
+  },
+  {
+   "venue": "Beall Concert Hall",
+   "title": "UO Jazz Ensembles",
+   "date": "2026-11-14",
+   "time": "17:00",
+   "url": "https://ticket.uoregon.edu/somd27/10586",
+   "type": "arts"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Rodgers & Hammerstein's The Sound of Music Sing-A-Long",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "url": "https://hultcenter.org/events/sound-of-music-singalong/",
+   "type": "arts"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Johnny Franco",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/johnny-franco-wow-hall-tickets/14392054",
+   "type": "concert"
   }
  ]
 }
