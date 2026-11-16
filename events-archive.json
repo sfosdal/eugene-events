@@ -1674,6 +1674,46 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/johnny-franco-wow-hall-tickets/14392054",
    "type": "concert"
+  },
+  {
+   "venue": "Lane Events Center",
+   "title": "Totally Rad Vintage Fest",
+   "date": "2026-11-15",
+   "time": "10:00",
+   "url": "https://totallyradvf.com/",
+   "type": "community"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Eugene Vocal Arts & Eugene Concert Orchestra: Brahms & Haydn",
+   "date": "2026-11-15",
+   "time": "14:30",
+   "url": "https://hultcenter.org/events/eva-brahms-haydn/",
+   "type": "arts"
+  },
+  {
+   "venue": "Beall Concert Hall",
+   "title": "Canadian Brass",
+   "date": "2026-11-15",
+   "time": "15:00",
+   "url": "https://ticket.uoregon.edu/cmb2/canadian-brass",
+   "type": "arts"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "The Stars Tour featuring Anne Wilson",
+   "date": "2026-11-15",
+   "time": "19:00",
+   "url": "https://hultcenter.org/events/the-stars-tour-anne-wilson/",
+   "type": "arts"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Cantrip",
+   "date": "2026-11-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/cantrip-wow-hall-tickets/15052263",
+   "type": "concert"
   }
  ]
 }
