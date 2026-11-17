@@ -1714,6 +1714,27 @@
    "time": "19:00:00",
    "url": "https://www.ticketweb.com/event/cantrip-wow-hall-tickets/15052263",
    "type": "concert"
+  },
+  {
+   "venue": "Gill Coliseum",
+   "title": "Oregon State Beavers Mens Basketball vs. East Texas A&M Lions Mens Basketball",
+   "date": "2026-11-16",
+   "time": "18:30:00",
+   "url": "https://osubeavers.com/sports/mens-basketball/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "YouTube"
+    ]
+   }
+  },
+  {
+   "venue": "LaSells Stewart Center",
+   "title": "NUTCRACKER! Magical Christmas Ballet",
+   "date": "2026-11-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/nutcracker-magical-christmas-ballet-corvallis-oregon-11-16-2026/event/0F00647EC7B49DF0",
+   "type": "arts"
   }
  ]
 }
