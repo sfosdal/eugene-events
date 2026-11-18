@@ -1735,6 +1735,55 @@
    "time": "19:00:00",
    "url": "https://www.ticketmaster.com/nutcracker-magical-christmas-ballet-corvallis-oregon-11-16-2026/event/0F00647EC7B49DF0",
    "type": "arts"
+  },
+  {
+   "venue": "Matthew Knight Arena",
+   "title": "Oregon Women's Basketball vs. Murray State Racers Womens Basketball",
+   "date": "2026-11-17",
+   "time": "11:00:00",
+   "url": "https://www.ticketmaster.com/oregon-womens-basketball-vs-murray-state-eugene-oregon-11-17-2026/event/0F0065419E657BE7",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   },
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:26:15.755Z",
+    "from": 8
+   }
+  },
+  {
+   "venue": "Matthew Knight Arena",
+   "title": "Oregon Ducks Volleyball vs. University of Washington Huskies Women's Volleyball",
+   "date": "2026-11-17",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/oregon-ducks-volleyball-vs-university-of-eugene-oregon-11-17-2026/event/0F0064EEBB42B79E",
+   "type": "sports",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:26:35.891Z",
+    "from": 8
+   }
+  },
+  {
+   "venue": "Gill Coliseum",
+   "title": "Oregon State Beavers Womens Volleyball vs. San Diego State Aztecs Womens Volleyball",
+   "date": "2026-11-17",
+   "time": "18:00:00",
+   "url": "https://osubeavers.com/sports/mens-basketball/schedule",
+   "type": "sports"
+  },
+  {
+   "venue": "McDonald Theatre",
+   "title": "Wrath",
+   "date": "2026-11-17",
+   "time": "18:00:00",
+   "url": "http://www.mcdonaldtheatre.com",
+   "type": "concert"
   }
  ]
 }
