@@ -1830,6 +1830,63 @@
     "checked": "2026-11-16T23:13:01.749Z",
     "from": 25.88
    }
+  },
+  {
+   "venue": "Gill Coliseum",
+   "title": "Oregon State Beavers Womens Volleyball vs. Boise State Broncos Womens Volleyball",
+   "date": "2026-11-19",
+   "time": "18:00:00",
+   "url": "https://osubeavers.com/sports/mens-basketball/schedule",
+   "type": "sports"
+  },
+  {
+   "venue": "Matthew Knight Arena",
+   "title": "Oregon Women's Basketball vs. Fairfield Womens Basketball",
+   "date": "2026-11-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/oregon-womens-basketball-vs-fairfield-womens-eugene-oregon-11-19-2026/event/0F0065419E6B7BF9",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "B1G+"
+    ]
+   },
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:22:47.587Z",
+    "from": 8
+   }
+  },
+  {
+   "venue": "Beall Concert Hall",
+   "title": "Oregon Wind Ensemble",
+   "date": "2026-11-19",
+   "time": "19:30",
+   "url": "https://ticket.uoregon.edu/somd27/10587",
+   "type": "arts"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Eugene Symphony: The Sea in Sound - Debussy’s La Mer",
+   "date": "2026-11-19",
+   "time": "19:30",
+   "url": "https://hultcenter.org/events/2627-eso-masterworks-2/",
+   "type": "arts"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Polyrhythmics",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/polyrhythmics-wow-hall-tickets/14111024",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:13:23.524Z",
+    "from": 31.55
+   }
   }
  ]
 }
