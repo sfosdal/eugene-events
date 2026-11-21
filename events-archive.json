@@ -1887,6 +1887,68 @@
     "checked": "2026-11-16T23:13:23.524Z",
     "from": 31.55
    }
+  },
+  {
+   "venue": "The Jazz Station",
+   "title": "The Christopher Brown Quartet",
+   "date": "2026-11-20",
+   "time": "",
+   "url": "https://www.thejazzstation.org/shows",
+   "type": "concert"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "The Nutcracker Remixed",
+   "date": "2026-11-20",
+   "time": "18:30",
+   "url": "https://hultcenter.org/events/nutcracker-remixed-26/",
+   "type": "arts"
+  },
+  {
+   "venue": "Beall Concert Hall",
+   "title": "Fall Jazz Concert",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "url": "https://ticket.uoregon.edu/somd27/10588",
+   "type": "arts"
+  },
+  {
+   "venue": "Wildish Theater",
+   "title": "RCT – Annie Kids",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "url": "https://wildishtheater.com/event/rct-annie-kids/",
+   "type": "arts"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "The Zaniac",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "url": "https://hultcenter.org/events/the-zaniac/",
+   "type": "arts"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Fire Priestess, Code Red, VudooDollz",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/fire-priestess-code-red-vudoodollz-wow-hall-tickets/14384804",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:13:52.404Z",
+    "from": 21
+   }
+  },
+  {
+   "venue": "Whirled Pies",
+   "title": "Kinky Bingo",
+   "date": "2026-11-20",
+   "time": "21:00",
+   "url": "https://whirledpies.com/event/11-20-kinky-bingo/",
+   "type": "community"
   }
  ]
 }
