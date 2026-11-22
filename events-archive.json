@@ -1949,6 +1949,64 @@
    "time": "21:00",
    "url": "https://whirledpies.com/event/11-20-kinky-bingo/",
    "type": "community"
+  },
+  {
+   "venue": "Lane Events Center",
+   "title": "The Eugene Saturday Market Holiday Market",
+   "date": "2026-11-21",
+   "time": "10:00",
+   "url": "https://www.eugenesaturdaymarket.org/",
+   "type": "community"
+  },
+  {
+   "venue": "Lane Events Center",
+   "title": "Eugene Collectors Circle Card Show",
+   "date": "2026-11-21",
+   "time": "10:00",
+   "url": "https://ajsportseugene.com",
+   "type": "community"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Cat Kid Comic Club: The Musical!",
+   "date": "2026-11-21",
+   "time": "16:00",
+   "url": "https://hultcenter.org/events/cat-kid-comic-club-musical/",
+   "type": "arts"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "ThrowbaX! An Old Skool Hip Hop Experience",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "url": "https://hultcenter.org/events/xcape-dance-throwbax/",
+   "type": "arts"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Mud City Square Dance",
+   "date": "2026-11-21",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/mud-city-square-dance-wow-hall-tickets/14406634",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-20T19:47:57.244Z",
+    "from": 21
+   }
+  },
+  {
+   "venue": "Reser Stadium",
+   "title": "Oregon State Beavers Football vs. Utah State Aggies Football",
+   "date": "2026-11-21",
+   "time": "19:30:00",
+   "url": "https://osubeavers.com/sports/football/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "CBSSN"
+    ]
+   }
   }
  ]
 }
