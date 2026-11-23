@@ -2007,6 +2007,44 @@
      "CBSSN"
     ]
    }
+  },
+  {
+   "venue": "Hult Center",
+   "title": "Eugene Symphony: Symphony Fiesta!",
+   "date": "2026-11-22",
+   "time": "15:00",
+   "url": "https://hultcenter.org/events/eso-symphony-fiesta/",
+   "type": "arts"
+  },
+  {
+   "venue": "Hult Center",
+   "title": "The Nutcracker Remixed",
+   "date": "2026-11-22",
+   "time": "15:30",
+   "url": "https://hultcenter.org/events/nutcracker-remixed-26/",
+   "type": "arts"
+  },
+  {
+   "venue": "Wildish Theater",
+   "title": "Oregon Brass Society – Fall with a Bit of Frost",
+   "date": "2026-11-22",
+   "time": "16:00",
+   "url": "https://wildishtheater.com/event/oregon-brass-society-fall-with-a-bit-of-frost/",
+   "type": "concert"
+  },
+  {
+   "venue": "WOW Hall",
+   "title": "Queer Choir Presents: Eat The Rich - A Fall Harvest Concert",
+   "date": "2026-11-22",
+   "time": "16:00:00",
+   "url": "https://www.ticketweb.com/event/queer-choir-presents-eat-the-wow-hall-tickets/14394024",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:24:03.932Z",
+    "from": 20.48
+   }
   }
  ]
 }
