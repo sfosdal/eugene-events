@@ -119,7 +119,7 @@
       cssVar: '--v-pkpark',
       color: '#eacf86',
       url: 'https://www.milb.com/eugene/schedule',
-      icon: 'marks/venues/milb.com.png',
+      icon: 'marks/venues/eugene.svg',
       tm: { id: 'KovZpZA1nekA', match: 'pk park', fallbackUrl: 'https://www.milb.com/eugene/schedule', exclude: TM_EXCLUDE },
       alias: /pk park/i,
     },
